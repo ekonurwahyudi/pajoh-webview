@@ -1,0 +1,107 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/pajoh/AndroidStudioProjects/Pajoh/app/src/main/AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from /home/pajoh/AndroidStudioProjects/Pajoh/app/src/main/AndroidManifest.xml:3:5-29
+		INJECTED from /home/pajoh/AndroidStudioProjects/Pajoh/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pajoh/AndroidStudioProjects/Pajoh/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/pajoh/AndroidStudioProjects/Pajoh/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pajoh/AndroidStudioProjects/Pajoh/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/pajoh/AndroidStudioProjects/Pajoh/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/pajoh/AndroidStudioProjects/Pajoh/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pajoh/AndroidStudioProjects/Pajoh/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/pajoh/AndroidStudioProjects/Pajoh/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/pajoh/AndroidStudioProjects/Pajoh/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/pajoh/AndroidStudioProjects/Pajoh/app/src/main/AndroidManifest.xml:8:5-36:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/pajoh/.android/build-cache/878a4a86a0cbbb0170fcc94578c48ff0370f1832/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/pajoh/.android/build-cache/9220e87734eb29d3a5ce8a07c87ab1f431efb626/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/pajoh/.android/build-cache/4c00f234f178c205e9d35d3de759867c4b946c71/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/pajoh/.android/build-cache/46ea3801246bf4b5b349d113f7c1b5d625f05b64/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/pajoh/.android/build-cache/aa44acd7f31cbfba943fd4a480c61885e5b7f6bb/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/pajoh/.android/build-cache/194b186377ed226ac1d22c00b441187747575428/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/pajoh/.android/build-cache/ec482308683a3924f8de32bb5cae07bbf5a127a3/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/pajoh/.android/build-cache/fab3372ab9320b7a3c38dcec9146a3464e37127d/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/pajoh/.android/build-cache/fd2df2493a8ed89c3b6dfa72828b0587cec0d078/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/pajoh/.android/build-cache/316266125d8dcd88ed202cf43984f8fbd8a79593/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/pajoh/AndroidStudioProjects/Pajoh/app/src/main/AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from /home/pajoh/AndroidStudioProjects/Pajoh/app/src/main/AndroidManifest.xml:13:9-35
+	android:roundIcon
+		ADDED from /home/pajoh/AndroidStudioProjects/Pajoh/app/src/main/AndroidManifest.xml:12:9-54
+	android:allowBackup
+		ADDED from /home/pajoh/AndroidStudioProjects/Pajoh/app/src/main/AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from /home/pajoh/AndroidStudioProjects/Pajoh/app/src/main/AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from /home/pajoh/AndroidStudioProjects/Pajoh/app/src/main/AndroidManifest.xml:14:9-40
+activity#id.pajoh.pajoh.SplashScreen
+ADDED from /home/pajoh/AndroidStudioProjects/Pajoh/app/src/main/AndroidManifest.xml:16:9-26:20
+	android:screenOrientation
+		ADDED from /home/pajoh/AndroidStudioProjects/Pajoh/app/src/main/AndroidManifest.xml:19:13-49
+	android:label
+		ADDED from /home/pajoh/AndroidStudioProjects/Pajoh/app/src/main/AndroidManifest.xml:18:13-45
+	android:theme
+		ADDED from /home/pajoh/AndroidStudioProjects/Pajoh/app/src/main/AndroidManifest.xml:20:13-66
+	android:name
+		ADDED from /home/pajoh/AndroidStudioProjects/Pajoh/app/src/main/AndroidManifest.xml:17:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/pajoh/AndroidStudioProjects/Pajoh/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /home/pajoh/AndroidStudioProjects/Pajoh/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /home/pajoh/AndroidStudioProjects/Pajoh/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/pajoh/AndroidStudioProjects/Pajoh/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /home/pajoh/AndroidStudioProjects/Pajoh/app/src/main/AndroidManifest.xml:24:27-74
+activity#id.pajoh.pajoh.MainActivity
+ADDED from /home/pajoh/AndroidStudioProjects/Pajoh/app/src/main/AndroidManifest.xml:28:9-34:20
+	android:name
+		ADDED from /home/pajoh/AndroidStudioProjects/Pajoh/app/src/main/AndroidManifest.xml:28:19-46
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT
+ADDED from /home/pajoh/AndroidStudioProjects/Pajoh/app/src/main/AndroidManifest.xml:29:13-33:29
+category#android.intent.category.DEFAULT
+ADDED from /home/pajoh/AndroidStudioProjects/Pajoh/app/src/main/AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from /home/pajoh/AndroidStudioProjects/Pajoh/app/src/main/AndroidManifest.xml:32:27-73
+uses-sdk
+INJECTED from /home/pajoh/AndroidStudioProjects/Pajoh/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/pajoh/.android/build-cache/878a4a86a0cbbb0170fcc94578c48ff0370f1832/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /home/pajoh/.android/build-cache/9220e87734eb29d3a5ce8a07c87ab1f431efb626/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/pajoh/.android/build-cache/4c00f234f178c205e9d35d3de759867c4b946c71/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/pajoh/.android/build-cache/46ea3801246bf4b5b349d113f7c1b5d625f05b64/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/pajoh/.android/build-cache/aa44acd7f31cbfba943fd4a480c61885e5b7f6bb/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/pajoh/.android/build-cache/194b186377ed226ac1d22c00b441187747575428/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/pajoh/.android/build-cache/ec482308683a3924f8de32bb5cae07bbf5a127a3/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/pajoh/.android/build-cache/fab3372ab9320b7a3c38dcec9146a3464e37127d/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /home/pajoh/.android/build-cache/fd2df2493a8ed89c3b6dfa72828b0587cec0d078/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/pajoh/.android/build-cache/316266125d8dcd88ed202cf43984f8fbd8a79593/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/pajoh/.android/build-cache/878a4a86a0cbbb0170fcc94578c48ff0370f1832/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/pajoh/AndroidStudioProjects/Pajoh/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pajoh/AndroidStudioProjects/Pajoh/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/pajoh/AndroidStudioProjects/Pajoh/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pajoh/AndroidStudioProjects/Pajoh/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /home/pajoh/.android/build-cache/878a4a86a0cbbb0170fcc94578c48ff0370f1832/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/pajoh/.android/build-cache/9220e87734eb29d3a5ce8a07c87ab1f431efb626/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/pajoh/.android/build-cache/4c00f234f178c205e9d35d3de759867c4b946c71/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/pajoh/.android/build-cache/46ea3801246bf4b5b349d113f7c1b5d625f05b64/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/pajoh/.android/build-cache/aa44acd7f31cbfba943fd4a480c61885e5b7f6bb/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/pajoh/.android/build-cache/194b186377ed226ac1d22c00b441187747575428/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/pajoh/.android/build-cache/ec482308683a3924f8de32bb5cae07bbf5a127a3/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/pajoh/.android/build-cache/fab3372ab9320b7a3c38dcec9146a3464e37127d/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/pajoh/.android/build-cache/fd2df2493a8ed89c3b6dfa72828b0587cec0d078/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/pajoh/.android/build-cache/878a4a86a0cbbb0170fcc94578c48ff0370f1832/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/pajoh/.android/build-cache/878a4a86a0cbbb0170fcc94578c48ff0370f1832/output/AndroidManifest.xml:26:9-47

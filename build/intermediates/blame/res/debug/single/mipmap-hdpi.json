@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/pajoh/AndroidStudioProjects/Pajoh/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/pajoh/AndroidStudioProjects/Pajoh/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/pajoh/AndroidStudioProjects/Pajoh/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/home/pajoh/AndroidStudioProjects/Pajoh/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    }
+]
